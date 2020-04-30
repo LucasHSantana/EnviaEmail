@@ -185,5 +185,5 @@ if __name__ == '__main__':
     email.content = '<!DOCTYPE html><html><body><ul><li>Teste 1</li><li>Teste 2</li></ul></body></html>'    
     # email.attachment(['E:\Documentos\Livros\Livros Gratuitos em inglês\An Anthology of London in Literature, 1558-1914.pdf'])
     # print(email)
-    email.send_email()
+    email.send_email() 
     
